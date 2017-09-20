@@ -21,7 +21,8 @@ All the variables and data sets are described in seperate chapters. First a gene
 After this each chapter represents a script and for each script the variables and data sets are described. An overview of the process with the 
 datasets is shown in the figure below (if the figure doesn't load, then open the file '20170918 Data Process_Get_Clean.jpg' at the Github repository).
 
-![Process of the data sets](D:/NoBackup/R/Get_Clean/20170918 Data Process_Get_Clean.jpg "Process Data Sets")
+![Process of the data sets](https://github.com/Maikel0J/Get_Clean_AssignmentCourse3/blob/master/20170918%20Data%20Process_Get_Clean.jpg "Process Data Sets")
+
 
 
 ### Forming the tidy data sets
